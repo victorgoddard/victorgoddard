@@ -1,7 +1,7 @@
  <div style="display: inline_block"><br>
      <a href="https://github.com/keepozin">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=keepozin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img width="293px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&theme=dracula"/>
+      <img height="200em" width="293px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&theme=dracula"/>
      </a>
  </div>
   

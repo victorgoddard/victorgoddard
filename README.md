@@ -1,7 +1,3 @@
- ```
- ("Hello, I am currently studying Java through college, and HTML, CSS and Javascript by myself!")
- ```
- 
  <div style="display: inline_block"><br>
      <a href="https://github.com/keepozin">
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&theme=dracula"/></a>

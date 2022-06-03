@@ -1,17 +1,13 @@
- <div style="display: inline_block"><br>
-     <a href="https://github.com/keepozin">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=keepozin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="200em" width="293px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&theme=dracula"/>
-     </a>
- </div>
-  
-  
  <div>
     <a href="https://instagram.com/vtrgodd"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/victorgoddard"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:goddardbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
  
+  <div style="display: inline_block"><br>
+     <a href="https://github.com/keepozin">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&theme=dracula"/></a>
+ </div>
  
  <div style="display: inline_block"><br>
     <h2><em>Learning about</em></h2>

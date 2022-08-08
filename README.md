@@ -1,6 +1,6 @@
  <div style="display: inline_block"><br>
      <a href="https://github.com/keepozin">
-      <img width="1000px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&theme=dracula"/></a>
+      <img width="1000px" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&theme=dracula"/></a>
  </div>
  
  ##

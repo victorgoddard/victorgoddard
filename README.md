@@ -6,9 +6,8 @@
       System.out.println("Estudante de Sistemas de Informação; atualmente focado em Java.");
     }
   ```
-<div>
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=keepozin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&layout=compact&langs_count=16&theme=tokyonight"/>     
+<div style="display: inline_block">
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&layout=compact&langs_count=16&theme=tokyonight"/> 
 </div>      
       
   <div align="left"> 

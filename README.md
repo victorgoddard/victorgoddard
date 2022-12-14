@@ -1,4 +1,3 @@
- <div style="display: inline_block"><br>
 
   ```ruby
     public static void main(String[] args) {
@@ -7,10 +6,11 @@
       System.out.println("Estudante de Sistemas de Informação; atualmente focado em Java.");
     }
   ```
- 
+  <div style="display: inline_block"><br>
+
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keepozin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&layout=compact&langs_count=16&theme=tokyonight"/>     
-      
+</div>      
       
 <div align="left"> 
   <div style="display: inline_block"><br>
@@ -30,9 +30,9 @@
     <a href="https://www.linkedin.com/in/victorgoddard"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:victorg17@live.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  </div>
-</div> 
+
   
- </div>
+
 
  
    ![Snake animation](https://github.com/keepozin/keepozin/blob/output/github-contribution-grid-snake.svg)

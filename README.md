@@ -6,7 +6,7 @@
     }
   ```
 <div style="display: inline_block">
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepozin&layout=compact&langs_count=16&theme=tokyonight"/> 
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgoddard&layout=compact&langs_count=16&theme=tokyonight"/> 
 </div>      
       
   <div align="left"> 
@@ -31,6 +31,6 @@
  </div>
  
  
-  ![Snake animation](https://github.com/keepozin/keepozin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/victorgoddard/victorgoddard/blob/output/github-contribution-grid-snake.svg)
 
  

@@ -31,6 +31,6 @@
  </div>
  
  
-  ![Snake animation](https://github.com/victorgoddard/victorgoddard/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/victorgoddard/victorgoddard/blob/output/github-contribution-grid-snake.svg) -->
 
  
